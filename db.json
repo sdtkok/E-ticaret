@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Autumn Hoodie",
+      "price": 264.9,
+      "image": "https://pangaia.com/cdn/shop/files/FLWRDWN_Recycle_Nylon_Exaggerated_Long_Puffer_Rind_Yellow_Womens-1.jpg?crop=center&height=1023&v=1724371240&width=768"
+    },
+    {
+      "id": 2,
+      "title": "FUSION HOODIE",
+      "price": 295,
+      "image": "https://pangaia.com/cdn/shop/products/365-Hoodie-Orchid-Purple-Female-1.jpg?crop=center&height=1023&v=1729470967&width=768"
+    },
+    {
+      "id": 3,
+      "title": "Chestnut Brown",
+      "price": 74.9,
+      "image": "https://pangaia.com/cdn/shop/files/365_Hoodie_Fennel_Green_Mens-1_5ec14a82-57e0-47a3-bc4c-0fa2489015e3.jpg?crop=center&height=1023&v=1729647237&width=768"
+    },
+    {
+      "id": 4,
+      "title": "Nike Sportswear",
+      "price": 80,
+      "image": "https://pangaia.com/cdn/shop/files/365_Organic_Cotton_T-Shirt_Mangrove_Turquoise_Mens-1_a2a0ae81-8a1d-45b4-a3c7-fcd3a2938780.jpg?crop=center&height=1023&v=1729732928&width=768"
+    },
+    {
+      "id": 5,
+      "title": "Champion BASIC",
+      "price": 48.99,
+      "image": "https://pangaia.com/cdn/shop/files/365_Hoodie_Ultraviolet_Mens-1_a1b77207-44e7-491a-9c3b-d42d94f6d8de.jpg?crop=center&height=1023&v=1729647487&width=768"
+    },
+    {
+      "id": 6,
+      "title": "Cotton Hoodie",
+      "price": 395,
+      "image": "https://pangaia.com/cdn/shop/files/Reclaim-3.0-Hoodie-Reclaim-Jade-Womens-3.jpg?v=1693398673&width=1426"
+    },
+    {
+      "id": 7,
+      "title": "CLASSIC CREWNECK",
+      "price": 48.99,
+      "image": "https://img01.ztat.net/article/spp-media-p1/10cea44041564f81ac585fc6c8978907/c4c32dbc45dd4dbc9d15087c846538f2.jpg?imwidth=1800"
+    },
+    {
+      "id": 8,
+      "title": "TAPE HOODED",
+      "price": 79.99,
+      "image": "https://pangaia.com/cdn/shop/files/365_Hoodie_Red_Duo-1_b61c5066-952f-4646-9ad4-958cee415f04.jpg?crop=center&height=1023&v=1729647236&width=768"
+    }
+  ]
